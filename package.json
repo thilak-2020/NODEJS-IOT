@@ -1,0 +1,23 @@
+{
+  "name": "NODEJS-IOT",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thilak-2020/NODEJS-IOT.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thilak-2020/NODEJS-IOT/issues"
+  },
+  "homepage": "https://github.com/thilak-2020/NODEJS-IOT#readme",
+  "dependencies": {
+    "mqtt": "^4.3.7"
+  }
+}
